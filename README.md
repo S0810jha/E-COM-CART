@@ -28,36 +28,6 @@ A full-stack shopping cart application built with React (Vite), Node.js/Express,
 - MongoDB (Mongoose)
 - CORS
 
-## Project Structure
-
-```
-cart/
-├── backend/
-│   ├── models/
-│   │   ├── Product.js
-│   │   └── CartItem.js
-│   ├── routes/
-│   │   ├── products.js
-│   │   ├── cart.js
-│   │   └── checkout.js
-│   ├── server.js
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Products.jsx
-│   │   │   ├── Cart.jsx
-│   │   │   ├── Checkout.jsx
-│   │   │   └── ReceiptModal.jsx
-│   │   ├── services/
-│   │   │   └── api.js
-│   │   ├── App.jsx
-│   │   ├── main.jsx
-│   │   └── index.css
-│   ├── index.html
-│   └── package.json
-└── README.md
-```
 
 ## API Endpoints
 
